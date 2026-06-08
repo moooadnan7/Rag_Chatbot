@@ -4,15 +4,6 @@ A Retrieval-Augmented Generation (RAG) chatbot built with **n8n**, **OpenAI**, *
 
 The system automatically ingests documents from Google Drive, converts them into vector embeddings, stores them in Pinecone, and retrieves relevant context to generate accurate, grounded answers using GPT models.
 
----
-
-## 🏗️ Architecture
-
-<p align="center">
-  <img src="images/rag-chatbot-architecture.png" alt="RAG Chatbot Architecture" width="100%">
-</p>
-
----
 
 ## 🚀 Features
 
